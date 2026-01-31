@@ -64,20 +64,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surendrasingh6289E&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surendrasingh6289&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surendrasingh6289&layout=compact&theme=tokyonight" height="140" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Surendrasingh6289&theme=darkhub&no-frame=true&row=1" />
 </p>
 
 ---
@@ -85,7 +72,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/surendra-singh-koranga-752261228" target="_blank">
+  <a href="https://www.linkedin.com/in/surendra-singh-koranga-752261228" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:surendrasingh6289@gmail.com">
@@ -110,11 +97,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Surendrasingh6289&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Surendrasingh6289&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
